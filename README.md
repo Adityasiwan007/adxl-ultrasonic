@@ -9,6 +9,11 @@ Here we are using ESP32 to communicate to the Heroku Server for sending the dist
 3. ADXL 345
 4. Servo Motor
 
+Connected Cloud Link: "https://github.com/Adityasiwan007/IOT-Home-Automation-Backend"
+
+## Architecture:
+<img src="demo/carArch.jpeg" width="580"> 
+
 ## Prototype for UltraSonic Car Parking System
 Follow the instruction given in link "https://randomnerdtutorials.com/esp32-http-get-post-arduino/"
 
